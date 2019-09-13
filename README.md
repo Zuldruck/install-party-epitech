@@ -5,6 +5,7 @@ Dear Tek0,
 Welcome to Epitech Montpellier !
 
 > You are going to erase all the existing data of you computer.
+
 > Make sure you saved all the data you need.
 
 Here are the requirements to start your C Pool :
@@ -13,7 +14,9 @@ Here are the requirements to start your C Pool :
  2. Configure the wifi access to IONIS
  
 > Network Name : IONIS
+
 > Authentication : PEAP
+
 > Check the "No Certificates" checkbox.
 
  3. Log In to outlook.office.com
