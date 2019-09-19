@@ -25,7 +25,7 @@ Here are the requirements to start your C Pool :
  6. Log In to intra.epitech.eu
  7. Register to all the available modules and activities (until 02/10/2019 not included)
  8. Log In to moodle.epitest.eu and test your audio
- 9. Open the console (CTRL+ALT+F1)
+ 9. Open the console (CTRL+ALT+F1/F2/F3/...)
  10. Install emacs
 
     sudo dnf install emacs
