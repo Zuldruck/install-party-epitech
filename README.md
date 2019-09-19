@@ -70,7 +70,7 @@ Here are the requirements to start your C Pool :
 
     sudo dnf install gcc
  
- 23. Ask an assistant to install Docker
+ 23. Ask an assistant to install Docker (https://docs.docker.com/install/linux/docker-ce/fedora/)
  24. FINISHED
 
 Now whe have installed all the requirements for the C Pool, do whatever you want.
