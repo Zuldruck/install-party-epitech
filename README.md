@@ -44,17 +44,18 @@ Here are the requirements to start your C Pool :
    
  16. Install blih
 
-    sudo mv blih.py /bin
-    sudo chmod +x blih.py
+    sudo mv blih.py blih
+    sudo chmod +x blih
+    sudo mv blih /bin
    
  17. Relauch the terminal (CTRL+ALT+T)
  18. Create a repository
  
-    blih -u <login> repository <nom>
+    blih -u <login> repository create <nom>
 
  19. Create your sshkey
 
-    sshkey-keygen
+    ssh-keygen
 
 > Always type Enter
 
