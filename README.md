@@ -78,3 +78,5 @@ Now whe have installed all the requirements for the C Pool, do whatever you want
 When you want to leave Epitech tell it to an assistant, in order to check one last thing.
 
 Have Fun !
+
+© Lucas Sanchez
